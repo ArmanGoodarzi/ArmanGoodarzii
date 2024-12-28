@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Constructor&Destructor\Constructor&Destructor\bin\Debug\Constructor&Destructor.exe.config
+C:\Users\HP\source\repos\Constructor&Destructor\Constructor&Destructor\bin\Debug\Constructor&Destructor.exe
+C:\Users\HP\source\repos\Constructor&Destructor\Constructor&Destructor\bin\Debug\Constructor&Destructor.pdb
+C:\Users\HP\source\repos\Constructor&Destructor\Constructor&Destructor\obj\Debug\Constructor&Destructor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Constructor&Destructor\Constructor&Destructor\obj\Debug\Constructor_Destructor.Form1.resources
+C:\Users\HP\source\repos\Constructor&Destructor\Constructor&Destructor\obj\Debug\Constructor_Destructor.Properties.Resources.resources
+C:\Users\HP\source\repos\Constructor&Destructor\Constructor&Destructor\obj\Debug\Constructor&Destructor.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Constructor&Destructor\Constructor&Destructor\obj\Debug\Constructor&Destructor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Constructor&Destructor\Constructor&Destructor\obj\Debug\Constructor&Destructor.exe
+C:\Users\HP\source\repos\Constructor&Destructor\Constructor&Destructor\obj\Debug\Constructor&Destructor.pdb
