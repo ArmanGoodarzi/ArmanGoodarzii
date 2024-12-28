@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\SOLID\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\HP\source\repos\SOLID\SOLID\bin\Debug\SOLID.exe
+C:\Users\HP\source\repos\SOLID\SOLID\bin\Debug\SOLID.pdb
+C:\Users\HP\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SOLID\SOLID\obj\Debug\SOLID.Form1.resources
+C:\Users\HP\source\repos\SOLID\SOLID\obj\Debug\SOLID.Properties.Resources.resources
+C:\Users\HP\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SOLID\SOLID\obj\Debug\SOLID.exe
+C:\Users\HP\source\repos\SOLID\SOLID\obj\Debug\SOLID.pdb
