@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form1.resources
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form2.resources
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\HP\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
