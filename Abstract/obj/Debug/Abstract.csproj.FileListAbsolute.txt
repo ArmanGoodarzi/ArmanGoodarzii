@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\HP\source\repos\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\HP\source\repos\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\HP\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Abstract\Abstract\obj\Debug\Abstract.Form1.resources
+C:\Users\HP\source\repos\Abstract\Abstract\obj\Debug\Abstract.Properties.Resources.resources
+C:\Users\HP\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\HP\source\repos\Abstract\Abstract\obj\Debug\Abstract.pdb
