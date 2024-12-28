@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\HP\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\HP\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\HP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.Form1.resources
+C:\Users\HP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\Users\HP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\HP\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
